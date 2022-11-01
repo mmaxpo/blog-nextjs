@@ -5,11 +5,23 @@
       "url": "/"
     },
     {
-      "name": "About",
+      "name": "Forex",
       "url": "/about"
     },
     {
-      "name": "Contact",
+      "name": "Crypto",
+      "url": "/contact"
+    },
+    {
+      "name": "Nft",
+      "url": "/contact"
+    },
+    {
+      "name": "Algo Trading",
+      "url": "/contact"
+    },
+    {
+      "name": "Exchange",
       "url": "/contact"
     },
     {
